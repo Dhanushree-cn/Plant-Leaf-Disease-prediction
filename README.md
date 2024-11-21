@@ -1,10 +1,10 @@
-Plant Leaf Disease Prediction using Machine Learning 
+# Plant Leaf Disease Prediction using Machine Learning 
 Check out the site here:Deployed App
-About:
+# About:
 In this project, I will discuss how to create a convolutional neural network which will predict whether a plant is suffering from a disease or not. 
 Different layers and other hyperparameters are used for building, training, validating and testing CNN classification model. 
 TensorFlow and Keras are used to implement this project. 
-Motivation:
+ # Motivation:
 1. There is a need to increase food production by an estimate of 70% by 2050 to feed an expected population size that is predicted to be over 9 billion people. 
 2. Currently, infectious diseases reduce the potential yield by an average of 40%.
 3. Many farmers in the developing world experiencing yield losses as high as 100%.
@@ -23,13 +23,13 @@ Motivation:
 11. Visualizing the original and predicted labels for the test images
 12. Deploy the project using Streamlit 
 
-commands Used In Anaconda prompt:
+ # commands Used In Anaconda prompt:
 pip install pipreqs
 pipreqs
 pip install -r requirements.txt
 streamlit run main_app.py
 
-Requirments of the project are:
+ # Requirments of the project are:
 keras==2.12.0
 numpy==1.23.5
 streamlit==1.22.0
