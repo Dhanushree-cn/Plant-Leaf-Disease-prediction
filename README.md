@@ -1,5 +1,5 @@
 # Plant Leaf Disease Prediction using Machine Learning 
-Check out the site here: Deployed App(http://localhost:8501/)
+Check out the site here: Deployed App(http://localhost:8501//)
 # About:
 In this project, I will discuss how to create a convolutional neural network which will predict whether a plant is suffering from a disease or not. 
 Different layers and other hyperparameters are used for building, training, validating and testing CNN classification model. 
