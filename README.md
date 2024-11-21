@@ -1,5 +1,5 @@
 # Plant Leaf Disease Prediction using Machine Learning 
-Check out the site here:Deployed App
+Check out the site here: Deployed App
 # About:
 In this project, I will discuss how to create a convolutional neural network which will predict whether a plant is suffering from a disease or not. 
 Different layers and other hyperparameters are used for building, training, validating and testing CNN classification model. 
@@ -34,8 +34,12 @@ streamlit run main_app.py
 
  # Requirments of the project are:
 keras==2.12.0
+
 numpy==1.23.5
+
 streamlit==1.22.0
+
 opencv_python==4.6.0.66
+
 tensorflow==2.12.0
 
