@@ -25,8 +25,11 @@ TensorFlow and Keras are used to implement this project.
 
  # commands Used In Anaconda prompt:
 pip install pipreqs
+
 pipreqs
+
 pip install -r requirements.txt
+
 streamlit run main_app.py
 
  # Requirments of the project are:
